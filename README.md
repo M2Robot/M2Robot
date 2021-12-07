@@ -1,7 +1,7 @@
 
 # Hello world !
 
-- iAm <span style="Color: red;">MrRobot </span>
+- iAm <span style="color:red"> MrRobot </span>
 
 
 
