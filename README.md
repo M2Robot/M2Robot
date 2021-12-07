@@ -11,7 +11,7 @@
 
 # Visitors count
 
-![Visitor Count](https://profile-counter.glitch.me/M2robot/count.svg)
+// ![Visitor Count](https://profile-counter.glitch.me/M2robot/count.svg)
 
 
 ![](https://komarev.com/ghpvc/?username=M2robot)
