@@ -14,11 +14,10 @@
 # Reach me :
 ![Discord](https://img.shields.io/badge/%3CAmen%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+https://github-readme-stats.vercel.app/api?username=m2robot&theme=github_dark&show_icons=true&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=m2robot&layout=compact
+
 # Visitors count
 
-![Visitor Count](https://profile-counter.glitch.me/AmineDev07/count.svg)
-
-
-# https://github-readme-stats.vercel.app/api?username=m2robot&theme=github_dark&show_icons=true&count_private=true
-
-# https://github-readme-stats.vercel.app/api/top-langs/?username=m2robot&layout=compact
+![Visitor Count](https://profile-counter.glitch.me/M2robot/count.svg)
